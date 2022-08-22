@@ -9,3 +9,7 @@ can be changed as you please through the top of the code when WINDOW_WIDTH, WIND
 someone throught the process of altering the code as they please. 
 
 NOTE : ARRAY_LEN is the length of a 2D array both in the y-axis and the x-axis meaning that the number of cells in the board are ARRAY_LEN^2
+
+## PACKAGES 
+
+This package uses SDL2 and SDL2.h and SDL2/SDL_ttf.h are required in order for the simulation to funciton.
